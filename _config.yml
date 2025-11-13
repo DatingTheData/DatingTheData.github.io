@@ -12,8 +12,7 @@ timezone: Asia/Kolkata
 
 title: Dating The Data
 tagline: Depth Over Scale in today's AI Boom
-description: >-
-  Dating The Data is a thought space where i rediscover and navigate fascianting world of data science.
+description: Dating The Data is a thought space where i rediscover and navigate fascianting world of data science.
 
 url: "https://datingthedata.github.io"   # no trailing slash
 
@@ -69,7 +68,7 @@ analytics:
 theme_mode:   # leave blank to auto-switch
 cdn:
 avatar:
-social_preview_image: /assets/img/cover.jpg  # optional social preview
+social_preview_image:
 
 toc: true
 
