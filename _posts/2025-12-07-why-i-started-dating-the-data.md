@@ -12,6 +12,8 @@ image:
 layout: post
 ---
 
+{% include post-title-override.html %}
+
 ## **1. The Age of Shallow Intelligence**
 
 Every week, there’s a new model. A new benchmark. A new *“state of the art”*. And yet, somewhere in this endless scroll of innovation, I’ve started feeling… disconnected.
@@ -93,4 +95,4 @@ In the next post, I’ll show what I really mean by *depth* in data projects —
 
 - <i class="fas fa-envelope"></i> [jinav.data@gmail.com](mailto:jinavgala@gmail.com)
 - <i class="fab fa-linkedin"></i> [LinkedIn](https://www.linkedin.com/in/jinav-gala)
-- <i class="fab fa-github"></i> [GitHub](https://github.com/DatingTheData) 
+- <i class="fab fa-github"></i> [GitHub](https://github.com/DatingTheData)

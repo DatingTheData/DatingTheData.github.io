@@ -4,3 +4,4 @@ icon: fas fa-tags
 order: 2
 hidden: true
 ---
+{% include custom-title.html %}

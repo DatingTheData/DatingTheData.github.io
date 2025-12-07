@@ -5,7 +5,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-## **The Translator**
+## **The Slow Lover**
 
 I am **Jinav Gala**.
 
@@ -13,13 +13,14 @@ By code, I am a **GenAI Developer** at **CitiusTech**. I build systems that can 
 Previously, I explored the data behind global commerce as a Research Analyst Intern at **Amazon**.
 
 By nature, I am an **Observer**.
-I’ve always stood at the intersection of rigid logic and messy humanity. For a long time, I tried to keep them separate.
-But after years of building models, I realized: **Data is just frozen human behavior.**
+I’ve always stood at the intersection of rigid logic and messy humanity. For a long time, I tried to keep them separate. But after years of building models, I realized: **Data is just frozen human behavior.**
 
 ### **The Mission**
 *Dating The Data* is my resistance against "Shallow Intelligence."
 - It is where I slow down. 
 - It is where I refuse to automate my curiosity.
+
+I discussed this more in my first blog post: [why I started dating the data](https://datingthedata.github.io/posts/why-i-started-dating-the-data/)
 
 ---
 
@@ -36,7 +37,7 @@ When I am not fine-tuning LLMs, I am usually:
 * 📍 **Location:** Mumbai, India
 * 📚 **Reading:** The Chola Tigers, Amish
 * 🧠 **Learning:** React.js
-* 👨‍💻 **Working on:** A reinforcement learning research project 
+* 👨‍💻 **Working on:** A reinforcement learning research project - Scaling Mini Metro
 
 ---
 
