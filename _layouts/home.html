@@ -11,17 +11,15 @@ layout: default
   /* 1. Hero Section Styles */
   .dtd-hero {
     position: relative;
-    height: 65vh;
-    min-height: 450px;
-    background-image: url('/assets/img/banner.jpg');
-    background-size: cover;
-    background-position: center;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    text-align: center;
-    color: #ffffff;
+    width: 100%;
     margin-bottom: 0;
+    line-height: 0;
+  }
+
+  .dtd-hero img {
+    width: 100%;
+    height: auto;
+    display: block;
   }
 
   .dtd-hero-overlay {
@@ -151,7 +149,7 @@ layout: default
 
   <!-- 1. Hero Section -->
   <section class="dtd-hero">
-    <!-- Text and overlay removed as banner.jpg already contains them -->
+    <img src="/assets/img/banner.jpg" alt="Dating The Data Banner">
   </section>
 
   <!-- 2. The Signal Box (Manifesto) -->

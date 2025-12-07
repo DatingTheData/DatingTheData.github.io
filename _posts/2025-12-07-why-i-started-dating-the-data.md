@@ -1,8 +1,8 @@
 ---
 title: "Why I Started DatingTheData: Rediscovering Depth in the Age of LLMs"
 date: 2025-12-07 12:00:00 +0530
-categories: [Philosophy, Data Science]
-tags: [data_science, ai, reflection, ml]
+categories: [Reflections, Data Science]
+tags: [data_science, ai]
 description: A reflective take on slowing down, rediscovering fundamentals, and rebuilding curiosity in an age obsessed with large models.
 author: Jinav Gala
 pin: true
