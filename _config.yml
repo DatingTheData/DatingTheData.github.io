@@ -10,8 +10,8 @@ timezone: Asia/Kolkata
 # Basic SEO and Metadata
 # ───────────────────────────────
 
-title: Dating The Data
-tagline: Depth Over Scale in today's AI Boom
+title: DatingTheData
+tagline: Because data deserves more than a first glance.
 description: Dating The Data is a thought space where i rediscover and navigate fascianting world of data science.
 
 url: "https://datingthedata.github.io"   # no trailing slash
@@ -67,7 +67,7 @@ analytics:
 
 theme_mode:   # leave blank to auto-switch
 cdn:
-avatar:
+avatar: /assets/images/logo0.1.png
 social_preview_image:
 
 toc: true
