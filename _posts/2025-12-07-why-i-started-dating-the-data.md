@@ -12,8 +12,6 @@ image:
 layout: post
 ---
 
-{% include post-title-override.html %}
-
 ## **1. The Age of Shallow Intelligence**
 
 Every week, there’s a new model. A new benchmark. A new *“state of the art”*. And yet, somewhere in this endless scroll of innovation, I’ve started feeling… disconnected.

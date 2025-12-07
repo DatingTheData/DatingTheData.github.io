@@ -1,18 +1,37 @@
-# Chirpy Starter
 
-[![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)][gem]&nbsp;
-[![GitHub license](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue)][mit]
+# DatingTheData
 
-When installing the [**Chirpy**][chirpy] theme through [RubyGems.org][gem], Jekyll can only read files in the folders
-`_data`, `_layouts`, `_includes`, `_sass` and `assets`, as well as a small part of options of the `_config.yml` file
-from the theme's gem. If you have ever installed this theme gem, you can use the command
-`bundle info --path jekyll-theme-chirpy` to locate these files.
+> **Rediscovering Depth in the Age of LLMs**
 
-The Jekyll team claims that this is to leave the ball in the user’s court, but this also results in users not being
-able to enjoy the out-of-the-box experience when using feature-rich themes.
+Welcome to **DatingTheData** — a personal blog and thought space by Jinav Gala, dedicated to slowing down, rediscovering fundamentals, and rebuilding curiosity in a world obsessed with large models and fast results.
 
-To fully use all the features of **Chirpy**, you need to copy the other critical files from the theme's gem to your
-Jekyll site. The following is a list of targets:
+## Philosophy
+
+"Everyone is swiping right on the Model. No one is listening to the Data.
+In an age of shallow intelligence, Dating The Data is a vow to slow down. To look past the hallucination and find the human truth frozen in the numbers."
+
+This site is my resistance against "Shallow Intelligence." Here, I refuse to automate my curiosity and instead focus on intentional observation, asking better questions, and finding meaning in the messiness of real data.
+
+## About Me
+
+I am **Jinav Gala** — GenAI Developer at CitiusTech, former Research Analyst Intern at Amazon, and lifelong observer. I believe data is just frozen human behavior, and understanding it deeply is an act of respect.
+
+## What You'll Find Here
+
+- Reflections on data science, AI, and the philosophy of technology
+- Editorials on slowing down and rediscovering depth
+- Practical guides and stories from real-world projects
+- A commitment to balancing scale with substance, speed with sensitivity, and automation with awareness
+
+## Connect with Me
+
+- 📧 [jinav.data@gmail.com](mailto:jinav.data@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/jinav-gala)
+- 🐙 [GitHub](https://github.com/DatingTheData)
+
+## License
+
+This work is published under the [MIT License](LICENSE).
 
 ```shell
 .
