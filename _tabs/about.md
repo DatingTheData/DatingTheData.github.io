@@ -37,3 +37,11 @@ When I am not fine-tuning LLMs, I am usually:
 * 📚 **Reading:** The Chola Tigers, Amish
 * 🧠 **Learning:** React.js
 * 👨‍💻 **Working on:** A reinforcement learning research project 
+
+---
+
+### **Connect with Me**
+
+- <i class="fas fa-envelope"></i> [jinav.data@gmail.com](mailto:jinavgala@gmail.com)
+- <i class="fab fa-linkedin"></i> [LinkedIn](https://www.linkedin.com/in/jinav-gala)
+- <i class="fab fa-github"></i> [GitHub](https://github.com/DatingTheData) 

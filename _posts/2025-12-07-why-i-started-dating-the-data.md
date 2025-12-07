@@ -90,6 +90,7 @@ In the next post, I’ll show what I really mean by *depth* in data projects —
 ---
 
 ### **Connect with Me**
-📍 *LinkedIn:* [Jinav Gala](https://www.linkedin.com/in/jinav-gala)
-💌 *Say Hi:* [jinavgala@gmail.com](mailto:jinavgala@gmail.com)
-🐙 *GitHub:* [@jinav-gala](https://github.com/Jinav22)
+
+- <i class="fas fa-envelope"></i> [jinav.data@gmail.com](mailto:jinavgala@gmail.com)
+- <i class="fab fa-linkedin"></i> [LinkedIn](https://www.linkedin.com/in/jinav-gala)
+- <i class="fab fa-github"></i> [GitHub](https://github.com/DatingTheData) 

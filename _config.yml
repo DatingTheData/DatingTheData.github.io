@@ -23,16 +23,12 @@ url: "https://datingthedata.github.io"   # no trailing slash
 github:
   username: DatingTheData
 
-twitter:
-  username: DatingTheData
-
 social:
   name: Jinav Gala
-  email: jinav.data@gmail.com
+  email: jinavgala@gmail.com
   links:
-    - https://twitter.com/DatingTheData
     - https://github.com/DatingTheData
-    - https://www.linkedin.com/in/jinavgala
+    - https://www.linkedin.com/in/jinav-gala
 
 # ───────────────────────────────
 # Webmaster Verification (for Google Search Console etc.)
