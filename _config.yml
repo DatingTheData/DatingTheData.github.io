@@ -65,7 +65,7 @@ analytics:
 # Miscellaneous Theme Settings
 # ───────────────────────────────
 
-theme_mode:   # leave blank to auto-switch
+theme_mode: dark  # leave blank to auto-switch
 cdn:
 avatar: /assets/images/logo0.1.png
 social_preview_image:
@@ -73,12 +73,13 @@ social_preview_image:
 toc: true
 
 comments:
+  active: true
   provider: giscus
   giscus:
     repo: DatingTheData/DatingTheData.github.io
-    repo_id:
-    category:
-    category_id:
+    repo_id: R_kgDOQSjvPQ
+    category: General
+    category_id: DIC_kwDOQSjvPc4Czfo5
     mapping: pathname
     reactions_enabled: 1
     input_position: bottom

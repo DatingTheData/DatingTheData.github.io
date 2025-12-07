@@ -5,9 +5,10 @@ categories: [Philosophy, Data Science]
 tags: [data_science, ai, reflection, ml]
 description: A reflective take on slowing down, rediscovering fundamentals, and rebuilding curiosity in an age obsessed with large models.
 author: Jinav Gala
+pin: true
 image:
-  path: /assets/img/posts/2025-12-07/timeline.png
-  alt: Timeline of AI relationship
+  path: /assets/img/posts/2025-12-07/image1.png
+  alt: A visual representation of dating the data vs dating the model
 layout: post
 ---
 
@@ -92,12 +93,3 @@ In the next post, I’ll show what I really mean by *depth* in data projects —
 📍 *LinkedIn:* [Jinav Gala](https://www.linkedin.com/in/jinav-gala)
 💌 *Say Hi:* [jinavgala@gmail.com](mailto:jinavgala@gmail.com)
 🐙 *GitHub:* [@jinav-gala](https://github.com/Jinav22)
-
----
-<small>
-<strong>Footnotes</strong><br>
-• The views and opinions expressed in this blog are entirely my own and do not reflect those of any organization I am or have been associated with.<br>
-• All visuals, infographics, and illustrations are originally designed by me, unless explicitly credited otherwise.<br>
-• Wherever AI tools have contributed to content generation, it will be clearly disclaimed in the respective post.<br>
-• References, datasets, and external sources will be properly cited in the footnotes of each article.
-</small>

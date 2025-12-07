@@ -5,34 +5,35 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-## Hi, I'm Jinav.
+## **The Translator**
 
-By day, I am a **GenAI Developer** based in Mumbai. I build systems that can read, write, and reason.
+I am **Jinav Gala**.
 
-But at my core, I am a **Translator**.
+By code, I am a **GenAI Developer** at **CitiusTech**. I build systems that can read, write, and reason.
+Previously, I explored the data behind global commerce as a Research Analyst Intern at **Amazon**.
 
-I’ve always stood at the intersection of two worlds: the rigid logic of code and the messy complexity of being human. For a long time, I tried to keep them separate. I thought "Data Science" was just about math.
+By nature, I am an **Observer**.
+I’ve always stood at the intersection of rigid logic and messy humanity. For a long time, I tried to keep them separate.
+But after years of building models, I realized: **Data is just frozen human behavior.**
 
-But after years of building models, I realized something: **Data is just frozen human behavior.**
-
-### Why I write this blog
-I started *DatingTheData* to document my journey back to the fundamentals. This is where I dissect complex technical concepts, not just to understand *how* they work, but *why* they matter.
+### **The Mission**
+*Dating The Data* is my resistance against "Shallow Intelligence."
+- It is where I slow down. 
+- It is where I refuse to automate my curiosity.
 
 ---
 
-### 🛠 My Toolbox
-
-| Area | Stack |
-|---|---|
-| **Languages** | Python, SQL, Bash |
-| **Frameworks** | PyTorch, LangChain, HuggingFace |
-| **Interests** | RAG, Agentic Workflows, Computational Philosophy |
+### **Beyond the Code**
+When I am not fine-tuning LLMs, I am usually:
+* ⛰️ **Hiking** the Sahyadris and Himalayas to find silence.
+* 📖 **Reading** fiction to understand people.
+* ✍️ **Writing** poetry to untangle my thoughts.
 
 ---
 
 ### ⚡️ Now (Dec 2025)
 
 * 📍 **Location:** Mumbai, India
-* 📚 **Reading:** *Waiting for user input*
-* 🧠 **Learning:** Optimizing Vector Search
-* 🎧 **Listening:** Lo-Fi Beats
+* 📚 **Reading:** The Chola Tigers, Amish
+* 🧠 **Learning:** React.js
+* 👨‍💻 **Working on:** A reinforcement learning research project 

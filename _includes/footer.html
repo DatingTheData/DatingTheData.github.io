@@ -1,7 +1,22 @@
-<footer class="footer mt-5 py-4 text-center">
+<footer class="dtd-footer">
   <div class="container">
-    <p class="mb-0 text-muted">
+    <p>
       © 2025 Jinav Gala | Built with Code & Poetry.
+    </p>
+    <!-- Mobile Disclaimer (Moved from Sidebar) -->
+    <p class="d-block d-lg-none mt-2" style="font-size: 0.8rem; opacity: 0.7; font-style: italic;">
+      Views are my own. Visuals by me. AI usage disclosed per post.
     </p>
   </div>
 </footer>
+
+<!-- Global Custom CSS for Editorial Design -->
+<link rel="stylesheet" href="/assets/css/custom.css">
+
+<!-- JS Fallback to Hide Toggle -->
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  var toggles = document.querySelectorAll('.mode-toggle, .theme-toggle, [aria-label="Change mode"], [aria-label="Switch mode"]');
+  toggles.forEach(function(t) { t.style.setProperty('display', 'none', 'important'); });
+});
+</script>
