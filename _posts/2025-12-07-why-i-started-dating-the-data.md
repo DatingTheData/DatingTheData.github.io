@@ -12,6 +12,12 @@ image:
 layout: post
 ---
 
+> **The 30-Second Summary**
+> * **The Problem:** We are spending more time prompting models than understanding the datasets they learn from.
+> * **The realization:** I nearly failed a project because I optimized for latency but missed a critical data leakage.
+> * **The Shift:** "Dating The Data" is my move from *Swipe Culture* (blindly trusting models) to *Intimacy* (deeply analyzing the source).
+{: .prompt-info }
+
 ## **1. The Age of Shallow Intelligence**
 
 Every week, there’s a new model. A new benchmark. A new *“state of the art”*. And yet, somewhere in this endless scroll of innovation, I’ve started feeling… disconnected.

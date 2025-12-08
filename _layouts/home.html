@@ -11,15 +11,17 @@ layout: default
   /* 1. Hero Section Styles */
   .dtd-hero {
     position: relative;
-    width: 100%;
+    height: 65vh;
+    min-height: 450px;
+    background-image: url('/assets/img/banner.jpg');
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: #ffffff;
     margin-bottom: 0;
-    line-height: 0;
-  }
-
-  .dtd-hero img {
-    width: 100%;
-    height: auto;
-    display: block;
   }
 
   .dtd-hero-overlay {
@@ -137,10 +139,26 @@ layout: default
 
   /* Responsive adjustments */
   @media (max-width: 768px) {
-    .dtd-title { font-size: 2.5rem; }
-    .dtd-subtitle { font-size: 1.1rem; }
-    .dtd-manifesto { font-size: 1rem; }
-    .dtd-post-card { padding: 1.5rem; }
+    .dtd-hero {
+      height: 50vh;
+      min-height: 300px;
+    }
+    .dtd-signal-box {
+      padding: 3rem 1rem 2rem;
+    }
+    .dtd-feed {
+      padding: 2rem 1rem 4rem;
+    }
+    .dtd-title { font-size: 2rem; }
+    .dtd-subtitle { font-size: 1rem; }
+    .dtd-manifesto { 
+      font-size: 1rem; 
+      line-height: 1.6;
+    }
+    .dtd-post-card { 
+      padding: 1.5rem; 
+      margin-bottom: 1.5rem;
+    }
     .dtd-post-title { font-size: 1.5rem; }
   }
 </style>
@@ -149,7 +167,7 @@ layout: default
 
   <!-- 1. Hero Section -->
   <section class="dtd-hero">
-    <img src="/assets/img/banner.jpg" alt="Dating The Data Banner">
+    <!-- Text and overlay removed as banner.jpg already contains them -->
   </section>
 
   <!-- 2. The Signal Box (Manifesto) -->

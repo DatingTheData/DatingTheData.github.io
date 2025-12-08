@@ -25,10 +25,10 @@ github:
 
 social:
   name: Jinav Gala
-  email: jinavgala@gmail.com
+  email: jinav.data@gmail.com
   links:
     - https://github.com/DatingTheData
-    - https://www.linkedin.com/in/jinav-gala
+    - https://www.linkedin.com/in/jinavgala
 
 # ───────────────────────────────
 # Webmaster Verification (for Google Search Console etc.)
@@ -139,7 +139,7 @@ compress_html:
   clippings: all
   comments: all
   endings: all
-  profile: false
+  profile: true
   blanklines: true
   ignore:
     envs: [development]
