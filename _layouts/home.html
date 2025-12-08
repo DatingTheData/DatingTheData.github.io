@@ -11,8 +11,9 @@ layout: default
   /* 1. Hero Section Styles */
   .dtd-hero {
     position: relative;
-    height: 65vh;
-    min-height: 450px;
+    width: 100%;
+    /* Dynamic height based on aspect ratio (approx 16:9) */
+    aspect-ratio: 16/9;
     background-image: url('/assets/img/banner.jpg');
     background-size: cover;
     background-position: center;
@@ -140,8 +141,12 @@ layout: default
   /* Responsive adjustments */
   @media (max-width: 768px) {
     .dtd-hero {
-      height: 50vh;
-      min-height: 300px;
+      /* On mobile, ensure the whole banner is seen if it has text */
+      aspect-ratio: 16/9;
+      background-size: contain;
+      background-repeat: no-repeat;
+      height: auto;
+      min-height: unset;
     }
     .dtd-signal-box {
       padding: 3rem 1rem 2rem;
